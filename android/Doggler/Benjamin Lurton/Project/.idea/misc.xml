@@ -1,0 +1,17 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../run/media/splittikin/goop/Documents/school/2022-23/csp/android-basics-kotlin-dogglers-app/app/src/main/res/layout/activity_main.xml" value="0.1693840579710145" />
+        <entry key="../../../../../../../run/media/splittikin/goop/Documents/school/2022-23/csp/android-basics-kotlin-dogglers-app/app/src/main/res/layout/grid_list_item.xml" value="0.25" />
+        <entry key="../../../../../../../run/media/splittikin/goop/Documents/school/2022-23/csp/android-basics-kotlin-dogglers-app/app/src/main/res/layout/vertical_horizontal_list_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

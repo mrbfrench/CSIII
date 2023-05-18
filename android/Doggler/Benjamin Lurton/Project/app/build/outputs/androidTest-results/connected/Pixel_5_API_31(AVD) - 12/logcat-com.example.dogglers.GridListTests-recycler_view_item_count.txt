@@ -1,0 +1,155 @@
+09-20 12:59:22.081 15020 15043 I TestRunner: started: recycler_view_item_count(com.example.dogglers.GridListTests)
+09-20 12:59:22.083   565  2684 W InputManager-JNI: Input channel object 'f919b76 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+09-20 12:59:22.114 15020 15043 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-20 12:59:22.150   957  1045 D SplashScreenView: Build android.window.SplashScreenView{7c05bcc V.E...... ......ID 0,0-0,0}
+09-20 12:59:22.150   957  1045 D SplashScreenView: Icon: view: null drawable: null size: 0
+09-20 12:59:22.150   957  1045 D SplashScreenView: Branding: view: android.view.View{4a76e15 G.ED..... ......I. 0,0-0,0 #10204a6 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+09-20 12:59:22.169 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: PRE_ON_CREATE
+09-20 12:59:22.169 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.187   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+09-20 12:59:22.201   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f1fa0000 0x3f2944000]
+09-20 12:59:22.222 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: CREATED
+09-20 12:59:22.223 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.226 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: STARTED
+09-20 12:59:22.226 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.228   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f2944000 0x3f32e8000]
+09-20 12:59:22.249  2858  2858 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+09-20 12:59:22.249  2858  2858 E HwDetectorWithState: a: 3
+09-20 12:59:22.251 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: RESUMED
+09-20 12:59:22.252 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.256 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: PAUSED
+09-20 12:59:22.268 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.294 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: PRE_ON_CREATE
+09-20 12:59:22.294 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-20 12:59:22.328 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: CREATED
+09-20 12:59:22.329 15020 15020 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.GridListActivity@612afae
+09-20 12:59:22.331 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: STARTED
+09-20 12:59:22.332 15020 15020 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.GridListActivity@612afae
+09-20 12:59:22.338 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: RESUMED
+09-20 12:59:22.339 15020 15020 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.GridListActivity@612afae
+09-20 12:59:22.371   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f89a4000 0x3f9348000]
+09-20 12:59:22.389   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f9348000 0x3f9cec000]
+09-20 12:59:22.392   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f9cec000 0x3fa690000]
+09-20 12:59:22.419   565   612 I ActivityTaskManager: Displayed com.example.dogglers/.GridListActivity: +294ms
+09-20 12:59:22.455  2835  2835 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3420
+09-20 12:59:22.456  2835  2835 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():2002
+09-20 12:59:22.457  2835  2835 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():31 Notify device unlocked.
+09-20 12:59:22.540  2644  2644 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+09-20 12:59:22.541  2644  2644 I A       : onApplyWindowInsets: Adjusting for display cutouts. Safe insets: left=0, top=136, right=0, bottom=0
+09-20 12:59:22.541  2644  2644 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+09-20 12:59:22.547 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: STOPPED
+09-20 12:59:22.547 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.603 15020 15020 I ViewInteraction: Checking 'com.example.dogglers.BaseTest$DrawableMatcher$RecyclerViewAssertion@f8bcd3' assertion on view view.getId() is <2131230933/com.example.dogglers:id/grid_recycler_view>
+09-20 12:59:22.617   957  1047 D EGL_emulation: app_time_stats: avg=34.19ms min=2.08ms max=650.64ms count=39
+09-20 12:59:22.637 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: PAUSED
+09-20 12:59:22.639 15020 15020 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.GridListActivity@612afae
+09-20 12:59:22.670 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: PRE_ON_CREATE
+09-20 12:59:22.671 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:22.686 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: CREATED
+09-20 12:59:22.688 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:22.690 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: STARTED
+09-20 12:59:22.691 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:22.694 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: RESUMED
+09-20 12:59:22.695 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:22.719   565  2419 W InputManager-JNI: Input channel object '8d3c7c8 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+09-20 12:59:22.757   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+09-20 12:59:22.766   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f6b3b000 0x3f74df000]
+09-20 12:59:22.804   565   612 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +180ms
+09-20 12:59:22.839   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f1348000]
+09-20 12:59:22.855 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: PAUSED
+09-20 12:59:22.856 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:22.876 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: STOPPED
+09-20 12:59:22.877 15020 15020 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.GridListActivity@612afae
+09-20 12:59:22.879 15020 15020 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@612afae in: DESTROYED
+09-20 12:59:22.882 15020 15020 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-20 12:59:22.886   565  2419 W InputManager-JNI: Input channel object 'a4b77c2 com.example.dogglers/com.example.dogglers.GridListActivity (client)' was disposed without first being removed with the input manager!
+09-20 12:59:22.899 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44 in: DESTROYED
+09-20 12:59:22.899 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@25d1d44
+09-20 12:59:22.909 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3 in: PRE_ON_CREATE
+09-20 12:59:22.911 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3
+09-20 12:59:22.927 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3 in: CREATED
+09-20 12:59:22.929 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3
+09-20 12:59:22.932 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3 in: STARTED
+09-20 12:59:22.932 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3
+09-20 12:59:22.940 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3 in: RESUMED
+09-20 12:59:22.941 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3
+09-20 12:59:22.969   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f1fa0000 0x3f2944000]
+09-20 12:59:22.999   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f2944000 0x3f32e8000]
+09-20 12:59:23.006   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f74df000 0x3f7e83000]
+09-20 12:59:23.014   565   612 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +193ms
+09-20 12:59:23.038 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: STOPPED
+09-20 12:59:23.039 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:23.053   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f09a4000 0x3f0fd0000]
+09-20 12:59:23.088 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c in: DESTROYED
+09-20 12:59:23.089 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@fbded3c
+09-20 12:59:23.097   565  2419 W InputManager-JNI: Input channel object 'dcceb6e com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+09-20 12:59:23.103 15020 15020 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3 in: PAUSED
+09-20 12:59:23.103 15020 15020 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.GridListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@ba80c3
+09-20 12:59:23.150 15020 15043 E TestRunner: failed: recycler_view_item_count(com.example.dogglers.GridListTests)
+09-20 12:59:23.152 15020 15043 E TestRunner: ----- begin exception -----
+09-20 12:59:23.165  2644  2644 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+09-20 12:59:23.165  2644  2644 I A       : onApplyWindowInsets: Adjusting for display cutouts. Safe insets: left=0, top=136, right=0, bottom=0
+09-20 12:59:23.165  2644  2644 I A       : onApplyWindowInsets: systemWindowInsets=Insets{left=0, top=145, right=0, bottom=132}
+09-20 12:59:23.166   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f09a4000]
+09-20 12:59:23.172 15020 15043 E TestRunner: androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: RecyclerView item count
+09-20 12:59:23.172 15020 15043 E TestRunner: Expected: <6>
+09-20 12:59:23.172 15020 15043 E TestRunner:      Got: was <0>
+09-20 12:59:23.172 15020 15043 E TestRunner:
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1724)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at com.example.dogglers.GridListTests.recycler_view_item_count(GridListTests.kt:66)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2248)
+09-20 12:59:23.172 15020 15043 E TestRunner: Caused by: junit.framework.AssertionFailedError: RecyclerView item count
+09-20 12:59:23.172 15020 15043 E TestRunner: Expected: <6>
+09-20 12:59:23.172 15020 15043 E TestRunner:      Got: was <0>
+09-20 12:59:23.172 15020 15043 E TestRunner:
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at com.example.dogglers.BaseTest$DrawableMatcher$RecyclerViewAssertion.check(BaseTest.kt:163)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:938)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:201)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at android.os.Looper.loop(Looper.java:288)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:7839)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+09-20 12:59:23.172 15020 15043 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+09-20 12:59:23.172 15020 15043 E TestRunner: ----- end exception -----
+09-20 12:59:23.173   341   440 D goldfish-address-space: claimShared: Ask to claim region [0x3f6b3b000 0x3f74df000]
+09-20 12:59:23.179 15020 15043 I TestRunner: finished: recycler_view_item_count(com.example.dogglers.GridListTests)
